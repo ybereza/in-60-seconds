@@ -1,10 +1,10 @@
-# Let's Get Started
+# Как заDDOSить сервер с targetSdk = 28
 
 ---
 
-## Add Some Slide Candy
+## Начало
 
-![](assets/img/presentation.png)
+![](assets/img/first-dialog.png)
 
 ---
 @title[Customize Slide Layout]
